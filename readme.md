@@ -39,7 +39,7 @@ mvn spring-boot:run
 Blog Post
 ------------------
 ```
-https://edwin.baculsoft.com/
+https://edwin.baculsoft.com/2020/10/integrating-spring-boot-login-with-keycloak-or-red-hat-single-sign-on/
 ```
 
 Reference 
